@@ -1,0 +1,131 @@
+h1 {
+    font-family: "Century Gothic", sans-serif;
+    font-weight: 100;
+    font-size: 2.5rem;
+    line-height: 20%;
+    color: #505050;
+    padding-left: 15px;
+    }
+h2 {
+    font-family: "Century Gothic", sans-serif;
+    font-weight: 100;
+    font-size: 1.9rem;
+    }
+h3 {
+    font-family: "Century Gothic", sans-serif;
+    font-weight: 100;
+    }
+h4 {
+    font-family: "Century Gothic", sans-serif;
+    font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 20%;
+    color: #505050;
+    padding-left: 15px;
+    }
+p {
+    font-family: "Arial", sans-serif;
+    font-weight: 100;
+    }
+a.top {
+    text-decoration: none;
+    font-family: "Century Gothic", sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    }
+body {
+    position: relative;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    }
+header {
+    width: 100%;
+    background-color: #c0e06d;
+    height: 100px;
+    padding-top: 15px;
+    padding-bottom: 40px;
+    margin-top: 15px;
+    }
+nav.top {
+    width: 100%;
+    background-color: #FFFFFF
+    }
+li.top {
+    list-style: none;
+    float: left;
+    padding-left: 20px;
+    padding-right: 70px;
+    padding-bottom: 10px;
+    font-size: 1.2rem;
+    color: black;
+    }
+aside {
+    position: absolute;
+    margin-top: 40px;
+    width: 260px;
+    clear:both;
+    float: left;
+    margin-bottom: 20px;
+    }
+nav.side {
+    background-color: #56dfdc;
+    padding-top: 40px;
+    padding-bottom: 35px;
+    }
+li.side {
+    list-style: none;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    width: 100%;
+    }
+a.side {
+    text-decoration: none;
+    font-family: "Century Gothic", sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: white;
+    }
+div.side {
+    margin-top: 15px;
+    width: 100%;
+    height: 190px;
+    background-color: #57bfdc;
+    }
+article {
+    margin-left: 280px;
+    margin-top: 57px;
+    }
+div.top {
+    background-color: #ded66d;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 60px;
+    color: #ffffff;
+    }
+div.tx {
+    width: 80%;
+    padding-left: 60px;
+    }
+footer {
+    margin-left: 280px;
+    margin-top:155px;
+    background-color: #aeafb1;
+    height: 40px
+    }
+img.icon {
+    height: 30px;
+    width: 30px;
+    padding-left: 6px;
+    padding-right: 6px;
+    }
+li.foot {
+    margin-top: 5px;
+    list-style: none;
+    float: right;
+    }
+li.foot:first-child {
+    padding-right: 20px;
+    }
